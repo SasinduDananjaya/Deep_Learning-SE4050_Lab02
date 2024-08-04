@@ -52,3 +52,6 @@ Accuracy for 280 hidden units: 90.25 %
 Accuracy for 275 hidden units: 91.0 %
 
 When the number of hidden nodes increases, accuracy initially improves because the network can learn more complex patterns. However, after a certain point, increasing hidden nodes further doesn't significantly change accuracy. If the hidden nodes are increased too much, the accuracy can decrease due to overfitting, making the network too complex and less effective on new data.
+
+## Ex 03
+Increase the number of neurons and change the number of epochs can improving test accuracy.
